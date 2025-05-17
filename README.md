@@ -1,4 +1,4 @@
-# ✈️ Airline Reservation System - Extended Edition
+# ✈️ Airline Reservation System - Using C
 
 Welcome to the **Airline Reservation System - Extended** — a comprehensive, user-friendly console-based system designed to streamline airline management and booking processes.
 
